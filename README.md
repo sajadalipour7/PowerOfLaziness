@@ -9,7 +9,9 @@ download whole repository and extract them into one folder
 
 also you need to install 'pyautogui' and 'cv2' .
 you can easily install them via pip:
+
 pip install pyautogui
+
 pip install cv2
 
 
